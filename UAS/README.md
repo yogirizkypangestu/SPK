@@ -27,11 +27,11 @@ Implementasikan model yang sudah anda buat ke dalam web api dengan http method `
 
 INPUT:
 	{
-		"prestasi": 1, 
-		"ekstrakurikuler": 2, 
-		"rekomendasi_dosen": 3, 
-		"rencana_studi": 4, 
-		"tes_kualifikasi": 5
+		"harga": 3, 
+		"kecepatan_maksimum": 2, 
+		"konsumsi_bahan_bakar": 2, 
+		"ukuran_mesin": 3, 
+		"ulasan": 3
 	}
 
 OUTPUT (diurutkan / sort dari yang terbesar ke yang terkecil):
